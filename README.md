@@ -18,7 +18,7 @@ Journal: Sensors
 
 ### 2024
 
-[![DOI](https://img.shields.io/badge/DOI-10.3390%2Fs26010061-blue)](https://doi.org/10.1038/s41598-024-70651-9)
+[![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--024--70651--9-blue)](https://doi.org/10.1038/s41598-024-70651-9)
 
 **Machine-learning-aided method for optimizing beam selection and update period in 5G networks and beyond**
 
@@ -75,6 +75,22 @@ Journal: bioRxiv
 Segment: Quantum Mechanics
 
 Journal: Revista Brasileira de Ensino de Física
+
+---
+
+## Patents
+
+[![Patent](https://img.shields.io/badge/USPTO-Patent%20Pending-yellow?logo=unitedstates)](https://patents.google.com/patent/US20250247140A1/en?oq=US20250247140A1)
+
+**Optimizing beam-search time and beam selection in wireless networks**
+
+Segment: Machine Learning for Telecommunications
+
+Application Number: US20250247140A1
+
+Agency: USPTO
+
+
 
 ---
 
