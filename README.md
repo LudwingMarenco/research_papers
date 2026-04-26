@@ -55,6 +55,19 @@ Journal: Plos One
 Segment: Machine Learning for Healthcare
 
 Journal: Plos One
+
+### 2018
+
+[![DOI](https://img.shields.io/badge/DOI-10.3390%2Fs26010061-blue)](https://doi.org/10.1101/094078)
+
+**Impact of gray matter signal regression in resting state and language task functional networks**
+
+Segment: Machine Learning for Healthcare
+
+Journal: bioRxiv
+
+
+
 ---
 
 ## Conferences and Talks
