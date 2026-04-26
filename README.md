@@ -86,15 +86,13 @@ Journal: Revista Brasileira de Ensino de Física
 
 Segment: Machine Learning for Telecommunications
 
-Application Number: US20250247140A1
-
 Agency: USPTO
 
 
 
 ---
 
-## Conferences and Talks
+## Conferences, Talks & Outreach
 
 ### 2026
 
@@ -108,6 +106,12 @@ Event: Workshop on Foundations and Applications of Spreading Phenomena on Comple
 
 Location: ICTP South American Institute for Fundamental Research
 
+[![Website](https://img.shields.io/badge/Website-Visit-orange?logo=googlechrome)]([News](https://inatel.br/noticias/solucao-de-automacao-por-gestos-do-inatel-avanca-e-tem-resultados-publicados-em-periodico-internacional))
+
+**Solução de automação por gestos do Inatel avança e tem resultados publicados em revista científica**
+
+Segment: Computer Vison for IoT
+
 ### 2025
 
 **Use of Artificial Intelligence in Telecommunications**
@@ -117,6 +121,14 @@ Segment: Machine Learning for Telecommunications
 Event: Enamórate de las Ciencias
 
 Location: Universidad Militar Nueva Granada
+
+### 2024
+
+[![Website](https://img.shields.io/badge/Website-Visit-orange?logo=googlechrome)]([News](https://inatel.br/noticias/com-ia-e-rede-privativa-5g-inatel-desenvolve-projeto-de-sala-de-aula-inteligente))
+
+**Com IA e rede privativa 5G, Inatel desenvolve projeto de sala de aula inteligente**
+
+Segment: Computer Vision for Education
 
 
 ---
