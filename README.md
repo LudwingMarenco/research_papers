@@ -11,8 +11,21 @@ Welcome! This repository is a consolidated space where you can find all my publi
 [![DOI](https://img.shields.io/badge/DOI-10.3390%2Fs26010061-blue)](https://doi.org/10.3390/s26010061)
 
 **GECO: A Real-Time Computer Vision Gesture Controller for IoT-Based Smart Home Systems**
-Segment: COmputer Vison for IoT
+
+Segment: Computer Vison for IoT
+
 Journal: Sensors
 
+### 2024
+
+[![DOI](https://img.shields.io/badge/DOI-10.3390%2Fs26010061-blue)](https://doi.org/10.1038/s41598-024-70651-9)
+
+**Machine-learning-aided method for optimizing beam selection and update period in 5G networks and beyond**
+
+Segment: Machine Learning for Telecommunications
+
+Journal: Scientific Reports
 
 ---
+
+## Conferences and Talks
