@@ -66,7 +66,15 @@ Segment: Machine Learning for Healthcare
 
 Journal: bioRxiv
 
+### 2016
 
+[![DOI](https://img.shields.io/badge/DOI-10.3390%2Fs26010061-blue)](https://doi.org/10.1590/1806-9126-RBEF-2016-0052)
+
+**Quantum "Ghosts"**
+
+Segment: Quantum Mechanics
+
+Journal: Revista Brasileira de Ensino de Física
 
 ---
 
