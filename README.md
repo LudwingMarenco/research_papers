@@ -79,3 +79,24 @@ Journal: Revista Brasileira de Ensino de Física
 ---
 
 ## Conferences and Talks
+
+### 2026
+
+[![YouTube](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube)](https://youtube.com/your-video-link)
+
+**On the Description of Legislative Consensual Regimes based Extended Boltzmann Machine and Nearest Correlated Clusters Algorithm**
+
+Segment: Machine Learning for Healthcare
+
+Event: 
+
+### 2025
+
+**Use of Artificial Intelligence in Telecommunications**
+
+Segment: Machine Learning for Telecommunications
+
+Event: Enamórate de las Ciencias, Universidad Militar Nueva Granada
+
+
+---
