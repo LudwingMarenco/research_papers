@@ -106,7 +106,7 @@ Event: Workshop on Foundations and Applications of Spreading Phenomena on Comple
 
 Location: ICTP South American Institute for Fundamental Research
 
-[![Website](https://img.shields.io/badge/Website-Visit-orange?logo=googlechrome)]([News](https://inatel.br/noticias/solucao-de-automacao-por-gestos-do-inatel-avanca-e-tem-resultados-publicados-em-periodico-internacional))
+[![Website](https://img.shields.io/badge/Website-Visit-orange?logo=googlechrome)](https://inatel.br/noticias/solucao-de-automacao-por-gestos-do-inatel-avanca-e-tem-resultados-publicados-em-periodico-internacional)
 
 **Solução de automação por gestos do Inatel avança e tem resultados publicados em revista científica**
 
@@ -124,7 +124,7 @@ Location: Universidad Militar Nueva Granada
 
 ### 2024
 
-[![Website](https://img.shields.io/badge/Website-Visit-orange?logo=googlechrome)]([News](https://inatel.br/noticias/com-ia-e-rede-privativa-5g-inatel-desenvolve-projeto-de-sala-de-aula-inteligente))
+[![Website](https://img.shields.io/badge/Website-Visit-orange?logo=googlechrome)](https://inatel.br/noticias/com-ia-e-rede-privativa-5g-inatel-desenvolve-projeto-de-sala-de-aula-inteligente)
 
 **Com IA e rede privativa 5G, Inatel desenvolve projeto de sala de aula inteligente**
 
