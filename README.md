@@ -82,13 +82,15 @@ Journal: Revista Brasileira de Ensino de Física
 
 ### 2026
 
-[![YouTube](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube)](https://youtube.com/your-video-link)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube)](https://www.youtube.com/watch?v=599GOEdZAPk&t=1975s)
 
 **On the Description of Legislative Consensual Regimes based Extended Boltzmann Machine and Nearest Correlated Clusters Algorithm**
 
 Segment: Machine Learning for Healthcare
 
-Event: 
+Event: Workshop on Foundations and Applications of Spreading Phenomena on Complex Networks
+
+Location: ICTP South American Institute for Fundamental Research
 
 ### 2025
 
@@ -96,7 +98,9 @@ Event:
 
 Segment: Machine Learning for Telecommunications
 
-Event: Enamórate de las Ciencias, Universidad Militar Nueva Granada
+Event: Enamórate de las Ciencias
+
+Location: Universidad Militar Nueva Granada
 
 
 ---
