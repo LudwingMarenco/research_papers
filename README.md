@@ -54,7 +54,7 @@ Journal: Plos One
 
 Segment: Machine Learning for Healthcare
 
-Journal: Plos One
+Journal: Scientifc Reports
 
 ### 2018
 
