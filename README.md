@@ -110,7 +110,7 @@ Location: ICTP South American Institute for Fundamental Research
 
 **Solução de automação por gestos do Inatel avança e tem resultados publicados em revista científica**
 
-Segment: Computer Vison for IoT
+Segment: Computer Vision for IoT
 
 ### 2025
 
